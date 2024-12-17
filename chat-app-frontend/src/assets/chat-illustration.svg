@@ -1,0 +1,15 @@
+<!-- src/assets/chat-illustration.svg -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="200"
+  height="200"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+  class="feather feather-message-circle"
+>
+  <path d="M21 11.5a8.38 8.38 0 0 1-1.9 5.6L21 21l-6.4-1.9A8.38 8.38 0 0 1 11.5 21a8.5 8.5 0 1 1 0-17z"></path>
+</svg>
